@@ -1,0 +1,9 @@
+C:\Users\angel\OneDrive\Desktop\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\angel\OneDrive\Desktop\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\angel\OneDrive\Desktop\ClassLibrary1\bin\Debug\ClassLibrary2.dll
+C:\Users\angel\OneDrive\Desktop\ClassLibrary1\bin\Debug\ClassLibrary2.pdb
+C:\Users\angel\OneDrive\Desktop\ClassLibrary1\obj\Debug\ClassLib.E736BF3C.Up2Date
+C:\Users\angel\OneDrive\Desktop\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\angel\OneDrive\Desktop\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
