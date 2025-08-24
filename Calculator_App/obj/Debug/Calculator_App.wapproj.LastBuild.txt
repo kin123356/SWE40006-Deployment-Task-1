@@ -1,0 +1,14 @@
+C:\Users\angel\OneDrive\Desktop\Calculator_App\Images\SplashScreen.scale-200.png
+C:\Users\angel\OneDrive\Desktop\Calculator_App\Images\LockScreenLogo.scale-200.png
+C:\Users\angel\OneDrive\Desktop\Calculator_App\Images\Square150x150Logo.scale-200.png
+C:\Users\angel\OneDrive\Desktop\Calculator_App\Images\Square44x44Logo.scale-200.png
+C:\Users\angel\OneDrive\Desktop\Calculator_App\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\angel\OneDrive\Desktop\Calculator_App\Images\StoreLogo.png
+C:\Users\angel\OneDrive\Desktop\Calculator_App\Images\Wide310x150Logo.scale-200.png
+C:\Users\angel\OneDrive\Desktop\Calculator_App\bin\AnyCPU\Debug\resources.pri
+C:\Users\angel\OneDrive\Desktop\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\angel\OneDrive\Desktop\ClassLibrary1\bin\Debug\ClassLibrary2.dll
+C:\Users\angel\OneDrive\Desktop\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\angel\OneDrive\Desktop\ClassLibrary1\bin\Debug\ClassLibrary2.pdb
+C:\Users\angel\OneDrive\Desktop\CalculatorUI\bin\Debug\CalculatorUI.exe
+C:\Users\angel\OneDrive\Desktop\CalculatorUI\bin\Debug\CalculatorUI.pdb

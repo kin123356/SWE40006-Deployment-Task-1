@@ -1,0 +1,2 @@
+MainPackage=C:\Users\angel\OneDrive\Desktop\Calculator_App\bin\AnyCPU\Debug\Calculator_App_1.0.1.0_AnyCPU_Debug.msix
+SymbolPackage=C:\Users\angel\OneDrive\Desktop\Calculator_App\obj\Debug\Symbols\Calculator_App_1.0.1.0_AnyCPU_Debug.appxsym
