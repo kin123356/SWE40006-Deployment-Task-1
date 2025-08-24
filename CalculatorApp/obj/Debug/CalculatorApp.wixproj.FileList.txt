@@ -1,0 +1,6 @@
+C:\Users\angel\OneDrive\Desktop\CalculatorApp\bin\Debug\CalculatorApp.msi
+C:\Users\angel\OneDrive\Desktop\CalculatorApp\bin\Debug\CalculatorApp.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\CalculatorApp.wixproj.BindContentsFileListnull.txt
+obj\Debug\CalculatorApp.wixproj.BindOutputsFileListnull.txt
+obj\Debug\CalculatorApp.wixproj.BindBuiltOutputsFileListnull.txt

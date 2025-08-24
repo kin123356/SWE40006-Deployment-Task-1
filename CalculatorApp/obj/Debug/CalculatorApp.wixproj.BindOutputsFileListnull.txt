@@ -1,0 +1,2 @@
+C:\Users\angel\OneDrive\Desktop\CalculatorApp\bin\Debug\CalculatorApp.msi
+C:\Users\angel\OneDrive\Desktop\CalculatorApp\bin\Debug\CalculatorApp.wixpdb

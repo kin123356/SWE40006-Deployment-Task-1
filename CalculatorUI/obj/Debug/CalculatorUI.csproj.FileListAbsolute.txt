@@ -1,0 +1,11 @@
+C:\Users\angel\OneDrive\Desktop\CalculatorUI\bin\Debug\CalculatorUI.exe
+C:\Users\angel\OneDrive\Desktop\CalculatorUI\bin\Debug\CalculatorUI.pdb
+C:\Users\angel\OneDrive\Desktop\CalculatorUI\bin\Debug\ClassLibrary1.dll
+C:\Users\angel\OneDrive\Desktop\CalculatorUI\bin\Debug\ClassLibrary2.dll
+C:\Users\angel\OneDrive\Desktop\CalculatorUI\bin\Debug\ClassLibrary1.pdb
+C:\Users\angel\OneDrive\Desktop\CalculatorUI\bin\Debug\ClassLibrary2.pdb
+C:\Users\angel\OneDrive\Desktop\CalculatorUI\obj\Debug\CalculatorUI.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\CalculatorUI\obj\Debug\CalculatorUI.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\CalculatorUI\obj\Debug\Calculat.9B7732A9.Up2Date
+C:\Users\angel\OneDrive\Desktop\CalculatorUI\obj\Debug\CalculatorUI.exe
+C:\Users\angel\OneDrive\Desktop\CalculatorUI\obj\Debug\CalculatorUI.pdb
